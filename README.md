@@ -28,3 +28,6 @@ You need to map your favor keys for the below three functions:
   ```vim
   nnoremap <leader>lci :call dict#LookupChinese()<cr>
   ```
+  
+## License
+This project is licensed under the Apache License Version 2.0.
