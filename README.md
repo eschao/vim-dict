@@ -5,7 +5,7 @@ The main intention why I wrote this plugin is for practicing and learning how to
 
 ## Installation
 
-Copy **plugin** direction into your **~/.vim/plugin** or use plugin management, such as: **[Vundle](https://github.com/VundleVim/Vundle.vim)**
+Copy **plugin** directory into your **~/.vim/plugin** or use plugin management, such as: **[Vundle](https://github.com/VundleVim/Vundle.vim)**
 
 ## Usage
 
