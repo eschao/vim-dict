@@ -5,7 +5,6 @@
 " Maintainer:   esc.chao@gmail.com
 " License:      Apache 2.0
 " =============================================================================
-function! dict#LookupWord()
 let g:plugin_path = expand('<sfile>:p:h')
 let s:True = 1
 let s:False = 0
