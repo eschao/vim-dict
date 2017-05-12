@@ -1,5 +1,5 @@
 ## Introduction
-This is a my first vim plugin to implement a simple function: using online **Bing** dictionary to translate **English** to **Chinese** and vice verse! 
+This is my first vim plugin to implement a simple function: using online **Bing** dictionary to translate **English** to **Chinese** and vice verse! 
 
 The main intention why I wrote this plugin is for practicing and learning how to use Python in Vimscript. I'm sorry that **You Cannot** get other languages translation from it since there is no free dictionary API available. 
 
